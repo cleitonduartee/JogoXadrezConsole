@@ -1,0 +1,16 @@
+C:\Pasta Cleiton\www\ws\JogoXadrezC#\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.exe
+C:\Pasta Cleiton\www\ws\JogoXadrezC#\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.deps.json
+C:\Pasta Cleiton\www\ws\JogoXadrezC#\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.runtimeconfig.json
+C:\Pasta Cleiton\www\ws\JogoXadrezC#\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.runtimeconfig.dev.json
+C:\Pasta Cleiton\www\ws\JogoXadrezC#\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.dll
+C:\Pasta Cleiton\www\ws\JogoXadrezC#\xadrez-console\xadrez-console\bin\Debug\net5.0\ref\xadrez-console.dll
+C:\Pasta Cleiton\www\ws\JogoXadrezC#\xadrez-console\xadrez-console\bin\Debug\net5.0\xadrez-console.pdb
+C:\Pasta Cleiton\www\ws\JogoXadrezC#\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.csproj.AssemblyReference.cache
+C:\Pasta Cleiton\www\ws\JogoXadrezC#\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pasta Cleiton\www\ws\JogoXadrezC#\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.AssemblyInfoInputs.cache
+C:\Pasta Cleiton\www\ws\JogoXadrezC#\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.AssemblyInfo.cs
+C:\Pasta Cleiton\www\ws\JogoXadrezC#\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.csproj.CoreCompileInputs.cache
+C:\Pasta Cleiton\www\ws\JogoXadrezC#\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.dll
+C:\Pasta Cleiton\www\ws\JogoXadrezC#\xadrez-console\xadrez-console\obj\Debug\net5.0\ref\xadrez-console.dll
+C:\Pasta Cleiton\www\ws\JogoXadrezC#\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.pdb
+C:\Pasta Cleiton\www\ws\JogoXadrezC#\xadrez-console\xadrez-console\obj\Debug\net5.0\xadrez-console.genruntimeconfig.cache
