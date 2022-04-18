@@ -29,6 +29,18 @@ namespace tabuleiro
             Pecas[posicao.Linha, posicao.Coluna] = peca;
             peca.Posicao = posicao;
         }
+        public Peca RetirarPeca(Posicao posicao)
+        {
+            if (Peca(posicao) == null)
+                return null;
+
+            var peca = Peca(posicao);
+            peca.Posicao = null;
+            Pecas[posicao.Linha, posicao.Coluna] = null;
+            return peca;
+
+
+        }
         public bool ExistePeca(Posicao posicao)
         {
             ValidarPosicao(posicao);
